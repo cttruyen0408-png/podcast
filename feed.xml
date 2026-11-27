@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CT Truyện</title>
+    <link>https://cttruyen.blogspot.com/</link>
+    <atom:link href="https://cttruyen0408-png.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>vi</language>
+    <description><![CDATA[CT Truyện – truyện audio tiếng Việt: truyện ngắn, truyện tâm lý, gia đình, tình cảm. Nghe mỗi ngày.]]></description>
+    <itunes:summary><![CDATA[CT Truyện – truyện audio tiếng Việt: truyện ngắn, truyện tâm lý, gia đình, tình cảm. Nghe mỗi ngày.]]></itunes:summary>
+    <itunes:author>CT Truyện</itunes:author>
+    <itunes:owner><itunes:name>CT Truyện</itunes:name><itunes:email>cttruyen0408@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://cttruyen0408-png.github.io/podcast/cover.jpg"/>
+    <itunes:category text="Society &amp; Culture"><itunes:category text="Relationships"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Fri, 27 Nov 2026 07:05:23 +0000</lastBuildDate>
+
+  </channel>
+</rss>
